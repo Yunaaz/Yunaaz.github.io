@@ -1,6 +1,6 @@
 const answers_no = {
     Spanish: [
-        "Si?",
+        "no",
         "Estas segura?",
         "Realmente segura??",
         "Pero muy muy segura???",
